@@ -1,0 +1,102 @@
+body {
+	background-color: black;
+	
+}
+
+* {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+div {
+	vertical-align: center;
+	margin-bottom: 0px;
+	background-color: #bababa;
+	border-radius: 3px;
+}
+
+.header {
+	min-width: 100px;
+	padding: 10px;
+	float: left;
+	display: inline-block;
+	border-style: groove;
+	text-align: center;
+	margin-right: 20px;
+}
+
+.topArea {
+	
+}
+
+.topRow {
+	
+}
+
+p {
+	padding: 0px;
+	margin: 5px;
+}
+
+#HoldBox {
+	height: 55px;
+	padding: 5px 5px 0px;
+	float: left;
+	display: inline-block;
+	border-style: groove;
+	text-align: center;
+	margin-right: 25px;
+	margin-bottom: 25px;
+}
+
+#CallerBox {
+	padding: 10px 20px 5px;
+	float: left;
+	display: inline-block;
+	border: 3px groove DimGray;
+	text-align: center;
+	outline-style: solid;
+	outline-offset: 5px;
+}
+
+#ALogBox {
+	clear: left;
+	float: left;
+	display: block;
+	padding: 5px 5px 0px;
+	border-style: double;
+	text-align: center;
+	margin-right: 25px;
+}
+
+#AAvaBox {
+	float: left;
+	display: block;
+	padding: 5px 5px 0px;
+	border-style: double;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.bottomArea {
+	clear: left;
+	float: left;
+	display: block;
+	padding: 5px 5px 5px;
+	text-align: left;
+}
+
+#hold {
+	font-size: 18px;
+}
+
+#call {
+	font-size: 18px;
+}
+
+#alog {
+	font-size: 18px;
+}
+
+#aava {
+	font-size: 18px;
+}
